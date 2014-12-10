@@ -1,0 +1,26 @@
+{
+	"GratefulDeadConcerts" : {
+		"description" : "Database containing the concerts of the Grateful Dead band",
+		"license" : "Creative Commons",
+		"versions": {
+			"02.00.00" : {
+				"compatibleFrom" : "02.00.00",
+				"releasedOn" : "2014-08-30",
+				"url": "http://www.orientechnologies.com/public-databases/GratefulDeadConcerts.zip"
+			}
+		}
+
+	},
+	"VehicleHistoryGraph" : {
+		"description" : "Database containing car models",
+		"license" : "Creative Commons",
+		"versions": {
+			"02.00.00" : {
+				"compatibleFrom" : "02.00.00",
+				"releasedOn" : "2014-12-09",
+				"url": "http://www.orientechnologies.com/public-databases/VehicleHistoryGraph.zip"
+			}
+		}
+
+	}
+}
