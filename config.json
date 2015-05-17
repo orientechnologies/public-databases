@@ -22,7 +22,7 @@
 			}
 		}
 
-	}
+	},
 	"WhiskyDb" : {
 		"description" : "Database containing whisky information inspired by http://gist.neo4j.org/?8139605",
 		"license" : "Creative Commons",
