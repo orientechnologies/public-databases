@@ -23,4 +23,16 @@
 		}
 
 	}
+	"WhiskyDb" : {
+		"description" : "Database containing whisky information inspired by http://gist.neo4j.org/?8139605",
+		"license" : "Creative Commons",
+		"versions": {
+			"02.00.00" : {
+				"compatibleFrom" : "02.00.00",
+				"releasedOn" : "2015-05-16",
+				"url": "https://dl.dropboxusercontent.com/u/380503/whisky.zip"
+			}
+		}
+
+	}
 }
