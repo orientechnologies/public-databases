@@ -3,6 +3,10 @@ public-databases
 
 This repository contains the registry of OrientDB public databases. The file `config.json` is read by OrientDB Studio web tool when the user looks for a public database to download.
 
+![](http://orientdb.com/images/install-db.png)
+
+![](http://orientdb.com/images/import-public-db.png)
+
 If you would like to see your database to appear here, please update the `config.json` file adding your database information and send a Pull Request. We'll review your database and if everything is ok it will be updated and available to everybody. Your database can be hosted by your own or at Orient Technologies servers.
 
 This is the format of `config.json` file:
@@ -41,3 +45,4 @@ Example:
 ```
 
 Databases must be released as zip file of the folder containing the OrientDB database. The folder must contains no sub-folders. No hidden or special files are allowed (example: .DS_Store).
+
