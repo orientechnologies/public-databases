@@ -33,6 +33,17 @@
 				"url": "https://dl.dropboxusercontent.com/u/380503/whisky.zip"
 			}
 		}
+	}
+	"Tolkien (Middle-earth)" : {
+		"description" : "Database containing Tolkien related information like Characters, Locations and Events from his different works (http://arda-maps.org)",
+		"license" : "Creative Commons",
+		"versions": {
+			"02.00.00" : {
+				"compatibleFrom" : "02.00.00",
+				"releasedOn" : "2015-08-14",
+				"url": "http://arda-maps.org/arda.zip"
+			}
+		}
 
 	}
 }
