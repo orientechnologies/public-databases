@@ -6,7 +6,7 @@
 			"02.00.00" : {
 				"compatibleFrom" : "02.00.00",
 				"releasedOn" : "2014-08-30",
-				"url": "http://www.orientechnologies.com/public-databases/GratefulDeadConcerts.zip"
+				"url": "http://orientdb.com/public-databases/GratefulDeadConcerts.zip"
 			}
 		}
 
@@ -18,21 +18,53 @@
 			"02.00.00" : {
 				"compatibleFrom" : "02.00.00",
 				"releasedOn" : "2014-12-09",
-				"url": "http://www.orientechnologies.com/public-databases/VehicleHistoryGraph.zip"
+				"url": "http://orientdb.com/public-databases/VehicleHistoryGraph.zip"
 			}
 		}
 
 	},
-	"WhiskyDb" : {
-		"description" : "Database containing whisky information inspired by http://gist.neo4j.org/?8139605",
+	"MovieRatings" : {
+		"description" : "Database containing Movies classified by Genre and Ratings by Users, by MovieLens (movielens.org). To know more look at: http://pizzaconnections.net/2015/03/27/148/",
+		"license" : "Creative Commons",
+		"versions": {
+			"02.00.00" : {
+				"compatibleFrom" : "02.00.00",
+				"releasedOn" : "2015-03-31",
+				"url": "http://orientdb.com/public-databases/MovieRatings.zip"
+			}
+		}
+	},
+	"OpenBeer" : {
+		"description" : "Database built from http://openbeerdb.com/ containing relationships between Beers, Beweries, Beer types and styles",
+		"license" : "Creative Commons",
+		"versions": {
+			"02.00.00" : {
+				"compatibleFrom" : "02.00.00",
+				"releasedOn" : "2015-04-23",
+				"url": "http://orientdb.com/public-databases/OpenBeer.zip"
+			}
+		}
+	},
+	"Whisky" : {
+		"description" : "Database containing whisky information by Leif Jantzen (https://github.com/ljantzen)",
 		"license" : "Creative Commons",
 		"versions": {
 			"02.00.00" : {
 				"compatibleFrom" : "02.00.00",
 				"releasedOn" : "2015-05-16",
-				"url": "https://dl.dropboxusercontent.com/u/380503/whisky.zip"
+				"url": "http://orientdb.com/public-databases/Whisky.zip"
 			}
 		}
-
+	},
+	"Tolkien-Arda" : {
+		"description" : "Database containing Tolkien (Middle-earth) related information like Characters, Locations and Events from his different works (http://arda-maps.org)",
+		"license" : "Creative Commons",
+		"versions": {
+			"02.00.00" : {
+				"compatibleFrom" : "02.00.00",
+				"releasedOn" : "2015-08-14",
+				"url": "http://orientdb.com/public-databases/Tolkien-Arda.zip"
+			}
+		}
 	}
 }
