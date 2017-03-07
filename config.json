@@ -66,5 +66,27 @@
 				"url": "http://orientdb.com/public-databases/Tolkien-Arda.zip"
 			}
 		}
+	},
+	"Reactome" : {
+		"description" : "OrientDB version of the Reactome Database (a free, open-source, curated and peer reviewed database of pathways and reactions - pathway steps- in human biology). Version 59 - http://reactome.org/",
+		"license" : "Creative Commons",
+		"versions": {
+			"59.00.01" : {
+				"compatibleFrom" : "02.02.16",
+				"releasedOn" : "2017-03-01",
+				"url": "https://www.dropbox.com/s/5pw6z0moijiq31g/reactome.zip"
+			}
+		}
+	},
+	"Panama Papers" : {
+		"description" : "OrientDB version of the ICIJ Offshore Leaks Database - https://panamapapers.icij.org",
+		"license" : "Creative Commons",
+		"versions": {
+			"01.00.00" : {
+				"compatibleFrom" : "02.02.17",
+				"releasedOn" : "2017-03-07",
+				"url": "https://www.dropbox.com/s/fmt9hjsxvulqxal/panama_papers.zip"
+			}
+		}
 	}
 }
