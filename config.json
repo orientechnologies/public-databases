@@ -11,6 +11,18 @@
 		}
 
 	},
+	"GratefulDeadConcerts" : {
+		"description" : "The demo database from 3.0.x version: http://orientdb.com/docs/3.0.x/gettingstarted/demodb/",
+		"license" : "Creative Commons",
+		"versions": {
+			"02.00.00" : {
+				"compatibleFrom" : "02.02.20",
+				"releasedOn" : "2014-08-30",
+				"url": "http://orientdb.com/public-databases/demodb.zip"
+			}
+		}
+
+	},
 	"VehicleHistoryGraph" : {
 		"description" : "Database containing car models",
 		"license" : "Creative Commons",
@@ -74,7 +86,7 @@
 			"59.00.01" : {
 				"compatibleFrom" : "02.02.16",
 				"releasedOn" : "2017-03-01",
-				"url": "https://www.dropbox.com/s/5pw6z0moijiq31g/reactome.zip"
+				"url": "http://orientdb.com/public-databases/reactome.zip"
 			}
 		}
 	},
@@ -85,7 +97,7 @@
 			"01.00.00" : {
 				"compatibleFrom" : "02.02.17",
 				"releasedOn" : "2017-03-07",
-				"url": "https://www.dropbox.com/s/fmt9hjsxvulqxal/panama_papers.zip"
+				"url": "http://orientdb.com/public-databases/panama_papers.zip"
 			}
 		}
 	}
