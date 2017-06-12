@@ -1,104 +1,101 @@
 {
-	"GratefulDeadConcerts" : {
-		"description" : "Database containing the concerts of the Grateful Dead band",
-		"license" : "Creative Commons",
-		"versions": {
-			"02.00.00" : {
-				"compatibleFrom" : "02.00.00",
-				"releasedOn" : "2014-08-30",
-				"url": "http://orientdb.com/public-databases/GratefulDeadConcerts.zip"
-			}
-		}
-
-	},
-	"GratefulDeadConcerts" : {
-		"description" : "The demo database from 3.0.x version: http://orientdb.com/docs/3.0.x/gettingstarted/demodb/",
-		"license" : "Creative Commons",
-		"versions": {
-			"02.00.00" : {
-				"compatibleFrom" : "02.02.20",
-				"releasedOn" : "2014-08-30",
-				"url": "http://orientdb.com/public-databases/demodb.zip"
-			}
-		}
-
-	},
-	"VehicleHistoryGraph" : {
-		"description" : "Database containing car models",
-		"license" : "Creative Commons",
-		"versions": {
-			"02.00.00" : {
-				"compatibleFrom" : "02.00.00",
-				"releasedOn" : "2014-12-09",
-				"url": "http://orientdb.com/public-databases/VehicleHistoryGraph.zip"
-			}
-		}
-
-	},
-	"MovieRatings" : {
-		"description" : "Database containing Movies classified by Genre and Ratings by Users, by MovieLens (movielens.org). To know more look at: http://pizzaconnections.net/2015/03/27/148/",
-		"license" : "Creative Commons",
-		"versions": {
-			"02.00.00" : {
-				"compatibleFrom" : "02.00.00",
-				"releasedOn" : "2015-03-31",
-				"url": "http://orientdb.com/public-databases/MovieRatings.zip"
-			}
-		}
-	},
-	"OpenBeer" : {
-		"description" : "Database built from http://openbeerdb.com/ containing relationships between Beers, Beweries, Beer types and styles",
-		"license" : "Creative Commons",
-		"versions": {
-			"02.00.00" : {
-				"compatibleFrom" : "02.00.00",
-				"releasedOn" : "2015-04-23",
-				"url": "http://orientdb.com/public-databases/OpenBeer.zip"
-			}
-		}
-	},
-	"Whisky" : {
-		"description" : "Database containing whisky information by Leif Jantzen (https://github.com/ljantzen)",
-		"license" : "Creative Commons",
-		"versions": {
-			"02.00.00" : {
-				"compatibleFrom" : "02.00.00",
-				"releasedOn" : "2015-05-16",
-				"url": "http://orientdb.com/public-databases/Whisky.zip"
-			}
-		}
-	},
-	"Tolkien-Arda" : {
-		"description" : "Database containing Tolkien (Middle-earth) related information like Characters, Locations and Events from his different works (http://arda-maps.org)",
-		"license" : "Creative Commons",
-		"versions": {
-			"02.00.00" : {
-				"compatibleFrom" : "02.00.00",
-				"releasedOn" : "2015-08-14",
-				"url": "http://orientdb.com/public-databases/Tolkien-Arda.zip"
-			}
-		}
-	},
-	"Reactome" : {
-		"description" : "OrientDB version of the Reactome Database (a free, open-source, curated and peer reviewed database of pathways and reactions - pathway steps- in human biology). Version 59 - http://reactome.org/",
-		"license" : "Creative Commons",
-		"versions": {
-			"59.00.01" : {
-				"compatibleFrom" : "02.02.16",
-				"releasedOn" : "2017-03-01",
-				"url": "http://orientdb.com/public-databases/reactome.zip"
-			}
-		}
-	},
-	"Panama Papers" : {
-		"description" : "OrientDB version of the ICIJ Offshore Leaks Database - https://panamapapers.icij.org",
-		"license" : "Creative Commons",
-		"versions": {
-			"01.00.00" : {
-				"compatibleFrom" : "02.02.17",
-				"releasedOn" : "2017-03-07",
-				"url": "http://orientdb.com/public-databases/panama_papers.zip"
-			}
-		}
-	}
+  "demodb": {
+    "description": "The demo database from 3.0.x version, documentation and sample queries: https://orientdb.com/docs/3.0.x/gettingstarted/demodb/",
+    "license": "Creative Commons",
+    "versions": {
+      "02.00.00": {
+        "compatibleFrom": "02.02.20",
+        "releasedOn": "2017-06-12",
+        "url": "https://orientdb.com/public-databases/demodb.zip"
+      }
+    }
+  },
+  "GratefulDeadConcerts": {
+    "description": "Database containing the concerts of the Grateful Dead band",
+    "license": "Creative Commons",
+    "versions": {
+      "02.00.00": {
+        "compatibleFrom": "02.00.00",
+        "releasedOn": "2014-08-30",
+        "url": "https://orientdb.com/public-databases/GratefulDeadConcerts.zip"
+      }
+    }
+  },
+  "VehicleHistoryGraph": {
+    "description": "Database containing car models",
+    "license": "Creative Commons",
+    "versions": {
+      "02.00.00": {
+        "compatibleFrom": "02.00.00",
+        "releasedOn": "2014-12-09",
+        "url": "https://orientdb.com/public-databases/VehicleHistoryGraph.zip"
+      }
+    }
+  },
+  "MovieRatings": {
+    "description": "Database containing Movies classified by Genre and Ratings by Users, by MovieLens (movielens.org). To know more look at: http://pizzaconnections.net/2015/03/27/148/",
+    "license": "Creative Commons",
+    "versions": {
+      "02.00.00": {
+        "compatibleFrom": "02.00.00",
+        "releasedOn": "2015-03-31",
+        "url": "https://orientdb.com/public-databases/MovieRatings.zip"
+      }
+    }
+  },
+  "OpenBeer": {
+    "description": "Database built from http://openbeerdb.com/ containing relationships between Beers, Beweries, Beer types and styles",
+    "license": "Creative Commons",
+    "versions": {
+      "02.00.00": {
+        "compatibleFrom": "02.00.00",
+        "releasedOn": "2015-04-23",
+        "url": "https://orientdb.com/public-databases/OpenBeer.zip"
+      }
+    }
+  },
+  "Whisky": {
+    "description": "Database containing whisky information by Leif Jantzen (https://github.com/ljantzen)",
+    "license": "Creative Commons",
+    "versions": {
+      "02.00.00": {
+        "compatibleFrom": "02.00.00",
+        "releasedOn": "2015-05-16",
+        "url": "https://orientdb.com/public-databases/Whisky.zip"
+      }
+    }
+  },
+  "Tolkien-Arda": {
+    "description": "Database containing Tolkien (Middle-earth) related information like Characters, Locations and Events from his different works (http://arda-maps.org)",
+    "license": "Creative Commons",
+    "versions": {
+      "02.00.00": {
+        "compatibleFrom": "02.00.00",
+        "releasedOn": "2015-08-14",
+        "url": "https://orientdb.com/public-databases/Tolkien-Arda.zip"
+      }
+    }
+  },
+  "Reactome": {
+    "description": "OrientDB version of the Reactome Database (a free, open-source, curated and peer reviewed database of pathways and reactions - pathway steps- in human biology). Version 59 - http://reactome.org/",
+    "license": "Creative Commons",
+    "versions": {
+      "02.00.00": {
+        "compatibleFrom": "02.02.16",
+        "releasedOn": "2017-03-01",
+        "url": "https://orientdb.com/public-databases/Reactome.zip"
+      }
+    }
+  },
+  "PanamaPapers": {
+    "description": "OrientDB version of the ICIJ Offshore Leaks Database - https://panamapapers.icij.org",
+    "license": "Creative Commons",
+    "versions": {
+      "02.00.00": {
+        "compatibleFrom": "02.02.17",
+        "releasedOn": "2017-03-07",
+        "url": "https://orientdb.com/public-databases/PanamaPapers.zip"
+      }
+    }
+  }
 }
