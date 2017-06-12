@@ -77,7 +77,7 @@
     }
   },
   "Reactome": {
-    "description": "525Mb -  OrientDB version of the Reactome Database (a free, open-source, curated and peer reviewed database of pathways and reactions - pathway steps- in human biology). Version 59 - http://reactome.org/ . Samples queries: https://github.com/santo-it/reactome-orientdb",
+    "description": "525Mb -  OrientDB version of the Reactome Database (a free, open-source, curated and peer reviewed database of pathways and reactions - pathway steps- in human biology). Version 59 - http://reactome.org/ . Sample queries: https://github.com/santo-it/reactome-orientdb",
     "license": "Creative Commons",
     "versions": {
       "02.00.00": {
@@ -88,7 +88,7 @@
     }
   },
   "PanamaPapers": {
-    "description": "290Mb - OrientDB version of the ICIJ Offshore Leaks Database - https://panamapapers.icij.org - Sample qieries: https://github.com/santo-it/panama-papers-orientdb",
+    "description": "290Mb - OrientDB version of the ICIJ Offshore Leaks Database - https://panamapapers.icij.org - Sample queries: https://github.com/santo-it/panama-papers-orientdb",
     "license": "Creative Commons",
     "versions": {
       "02.00.00": {
