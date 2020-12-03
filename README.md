@@ -37,7 +37,7 @@ Example:
         "02.00.00" : {
         "compatibleFrom" : "02.00.00",
         "releasedOn" : "2014-08-30",
-        "url": "http://www.orientechnologies.com/public-databases/GratefulDeadConcerts.zip"
+        "url": "http://www.orientdb.com/public-databases/3.0.x/GratefulDeadConcerts.zip"
       }
     }
   }
