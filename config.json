@@ -6,7 +6,7 @@
       "02.00.00": {
         "compatibleFrom": "02.02.20",
         "releasedOn": "2017-06-12",
-        "url": "https://orientdb.com/public-databases/demodb.zip"
+        "url": "https://orientdb.com/public-databases/3.0.x/demodb.zip"
       }
     }
   },
@@ -17,7 +17,7 @@
       "02.00.00": {
         "compatibleFrom": "02.00.00",
         "releasedOn": "2014-08-30",
-        "url": "https://orientdb.com/public-databases/GratefulDeadConcerts.zip"
+        "url": "https://orientdb.com/public-databases/3.0.x/GratefulDeadConcerts.zip"
       }
     }
   },
@@ -28,7 +28,7 @@
       "02.00.00": {
         "compatibleFrom": "02.00.00",
         "releasedOn": "2014-12-09",
-        "url": "https://orientdb.com/public-databases/VehicleHistoryGraph.zip"
+        "url": "https://orientdb.com/public-databases/3.0.x/VehicleHistoryGraph.zip"
       }
     }
   },
@@ -39,7 +39,7 @@
       "02.00.00": {
         "compatibleFrom": "02.00.00",
         "releasedOn": "2015-03-31",
-        "url": "https://orientdb.com/public-databases/MovieRatings.zip"
+        "url": "https://orientdb.com/public-databases/3.0.x/MovieRatings.zip"
       }
     }
   },
@@ -50,7 +50,7 @@
       "02.00.00": {
         "compatibleFrom": "02.00.00",
         "releasedOn": "2015-04-23",
-        "url": "https://orientdb.com/public-databases/OpenBeer.zip"
+        "url": "https://orientdb.com/public-databases/3.0.x/OpenBeer.zip"
       }
     }
   },
@@ -61,7 +61,7 @@
       "02.00.00": {
         "compatibleFrom": "02.00.00",
         "releasedOn": "2015-05-16",
-        "url": "https://orientdb.com/public-databases/Whisky.zip"
+        "url": "https://orientdb.com/public-databases/3.0.x/Whisky.zip"
       }
     }
   },
@@ -72,7 +72,7 @@
       "02.00.00": {
         "compatibleFrom": "02.00.00",
         "releasedOn": "2015-08-14",
-        "url": "https://orientdb.com/public-databases/Tolkien-Arda.zip"
+        "url": "https://orientdb.com/public-databases/3.0.x/Tolkien-Arda.zip"
       }
     }
   },
@@ -83,7 +83,7 @@
       "02.00.00": {
         "compatibleFrom": "02.02.16",
         "releasedOn": "2017-03-01",
-        "url": "https://orientdb.com/public-databases/Reactome.zip"
+        "url": "https://orientdb.com/public-databases/3.0.x/Reactome.zip"
       }
     }
   },
@@ -94,7 +94,7 @@
       "02.00.00": {
         "compatibleFrom": "02.02.17",
         "releasedOn": "2017-03-07",
-        "url": "https://orientdb.com/public-databases/PanamaPapers.zip"
+        "url": "https://orientdb.com/public-databases/3.0.x/PanamaPapers.zip"
       }
     }
   }
